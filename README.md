@@ -1,0 +1,2 @@
+# Toplama
+Zip Dosyasına bakınız.
